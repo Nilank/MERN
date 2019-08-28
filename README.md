@@ -24,7 +24,7 @@ Navigate to server folder
 Run the following command
 
 ### For Dev profile
-`node app.js`
+`node index.js`
 
 ### Start frontend
 Navigate to client folder 
